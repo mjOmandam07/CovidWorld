@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+covid/com/covid_tracker/BuildConfig.java
+ covid.com.covid_tracker.BuildConfig
